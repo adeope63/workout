@@ -1,4 +1,4 @@
-# Workout App with VueJs
+# Workout App with VueJs and Supabase
 https://activity-track.netlify.app
 
 ## Project setup
