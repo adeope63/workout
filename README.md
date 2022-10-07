@@ -1,4 +1,5 @@
-# workout
+# Workout App with VueJs
+https://activity-track.netlify.app
 
 ## Project setup
 ```
